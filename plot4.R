@@ -27,6 +27,6 @@ with( subPowerData,{
 })
 
 ## Saving to file plot4.png
-dev.copy(png, file="plot4.png", height=480, width=580)
+dev.copy(png, file="plot4.png", height=480, width=880)
 dev.off()
 
