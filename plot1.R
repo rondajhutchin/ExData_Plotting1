@@ -12,5 +12,3 @@ hist(as.numeric(as.character(subPowerData$Global_active_power)),col="red",main="
 ## Saving to file plot1.png
 dev.copy(png, file="plot1.png", height=480, width=480)
 dev.off()
-
-
